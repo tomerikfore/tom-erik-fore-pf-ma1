@@ -21,3 +21,19 @@ typeof("frog");
 
 // question 6
 
+var orderHasShipped = true;
+
+// question 7
+
+if(orderHasShipped === true) {
+  console.log("the order has shipped")
+}
+else {
+  console.log("the order has not shipped")
+}
+
+// question 8
+
+for(var count = 0; count <= 10; count++) {
+    console.log(count);
+}
